@@ -1,16 +1,9 @@
 [package]
-name = "Rust"
+name = "login"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
-[workspace]
-members = [
-    "a_topics_1/authentication",
-    "a_topics_1/functions",
-    "a_topics_1/login",
-    "a_topics_1/variables",
-]
+authentication = {path = "../authentication"}
