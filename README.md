@@ -1,9 +1,11 @@
 # Awesome Dev Book
 
 
-## List of Content
+## Содержание
 
 - [DevOps](./book/DevOps/INDEX.md)
 - [GoLang](./book/GoLang/INDEX.md)
 - [Rust](./book/Rust/INDEX.md)
-- [System Design](./book/SystemDesign/INDEX.md)
+- [Архитектура](book/Architecture/INDEX.md)
+    - [Чистая архитектура](book/Architecture/CleanArchitecture/INDEX.md)
+    - [Системный дизайн](book/Architecture/SystemDesign/INDEX.md)
