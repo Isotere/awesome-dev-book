@@ -18,3 +18,10 @@
 ### Полезные приемы
 
 - [Функциональные опции](../../code/go_lang/use_cases/options/config.go)
+- [Rate Limiter](../../code/go_lang/use_cases/rate_limiter/main.go)
+
+## Задачи
+
+[Условия на github](https://github.com/loong/go-concurrency-exercises)
+
+- [Rate Crawler](../../code/go_lang/exercises/rate_crowler/main.go)

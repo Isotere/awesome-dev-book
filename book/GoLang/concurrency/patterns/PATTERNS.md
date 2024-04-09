@@ -9,6 +9,10 @@
 - [The for-select loop](./FOR_SELECT_LOOP.md)
 - [The OR-channel](./OR_CHANNEL.md)
 - [Pipeline](./PIPELINE.md)
+- [FAN-IN / FAN-OUT](./FAN_IN_FAN_OUT.md)
+- [OR-Done Channel](./OR_DONE_CHANNEL.md)
+- [Tee-channel](./TEE_CHANNEL.md)
+- [Bridge-channel](./BRIDGE_CHANNEL.md)
 
 ## Предотвращение утечки горутин (for-select loop)
 
