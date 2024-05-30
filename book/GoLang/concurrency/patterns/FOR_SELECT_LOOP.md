@@ -1,22 +1,24 @@
 # Awesome Dev Book / GoLang / Concurrency / Patterns
 
-***
+---
+
 [<<< Back](./PATTERNS.md)
-***
+
+---
 
 ## The for-select loop
 
 Все очень просто:
 
 ```go
-for { // Either loop infinitely or range over something 
+for { // Either loop infinitely or range over something
     select {
         // Do some work with channels
-    } 
+    }
 }
 ```
 
-Сценарии использования. 
+Сценарии использования.
 
 ### Итерация по коллекции и отправка значений в канал
 
@@ -26,7 +28,7 @@ for _, s := range []string{"a", "b", "c"} {
         case <-done:
             return
         case stringStream <- s:
-			
+
     }
 }
 ```
@@ -40,8 +42,7 @@ for {
             return
         default:
     }
-	
-    // Выполняем какую-то работу (можно поместить в блок default) 
+
+    // Выполняем какую-то работу (можно поместить в блок default)
 }
 ```
-
