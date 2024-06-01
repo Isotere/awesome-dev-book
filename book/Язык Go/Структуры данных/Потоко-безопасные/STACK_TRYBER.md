@@ -8,4 +8,4 @@
 
 Потоко-безопасный стэк (реализация Трайбера)
 
-[Ссылка на код](../../../code/go_lang/data_structs/stack_tryber/main.go)
+[Ссылка на код](awesome-dev-book/code/go_lang/data_structs/stack_tryber/main.go)

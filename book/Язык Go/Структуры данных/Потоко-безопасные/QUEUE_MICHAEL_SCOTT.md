@@ -8,7 +8,7 @@
 
 Потоко-безопасная очередь (реализация Майлка Скотта)
 
-[Ссылка на код](../../../code/go_lang/data_structs/queue_scott/main.go)
+[Ссылка на код](awesome-dev-book/code/go_lang/data_structs/queue_scott/main.go)
 
 Одно из правил: 
 
