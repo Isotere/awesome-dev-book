@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "a2b969a941f79f82",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd83d4c98196052f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Матан/0001 Вводное.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "854b7ecf1152a912",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b9a13cda093604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea8042736ce20de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22f16d580f8b59e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d846c3a0338c9af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d3a4648a9eb186",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a462d7fc81c9b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e89cf73f143430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Матан/0001 Вводное.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31adba971babceb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Матан/0001 Вводное.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6c7d1a3919cd249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ee605e8b0fcfd20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Матан/0001 Вводное.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd83d4c98196052f",
+  "lastOpenFiles": [
+    "Матан/0001 Вводное.md",
+    "Untitled.md"
+  ]
+}
