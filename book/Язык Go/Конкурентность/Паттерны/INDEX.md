@@ -6,6 +6,7 @@
 
 ## Паттерны конкурентности
 
+- [Генераторы](Генераторы.md)
 - [The for-select loop](FOR_SELECT_LOOP.md)
 - [The OR-channel](OR_CHANNEL.md)
 - [Pipeline](PIPELINE.md)

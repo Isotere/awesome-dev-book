@@ -2,7 +2,7 @@
 
 ---
 
-[<<< Back](PATTERNS.md)
+[<<< Back](awesome-dev-book/book/Язык%20Go/Конкурентность/Паттерны/INDEX.md)
 
 ---
 
