@@ -36,15 +36,14 @@ bridge := func(done <-chan interface{}, chanStream <-chan <-chan interface{}) <-
                 case <-done:
                     return
             }
+	        // Вычитываем значения из текущего канала и отдаем их в мост
+	        for val := range orDone(done, stream) {
+	            select {
+	                case valStream <- val:
+	                case <-done:
+	            }
+	        } 
         }
-		
-        // Вычитываем значения из текущего канала и отдаем их в мост
-        for val := range orDone(done, stream) {
-            select {
-                case valStream <- val:
-                case <-done:
-            }
-        } 
     }()
 	
     return valStream 

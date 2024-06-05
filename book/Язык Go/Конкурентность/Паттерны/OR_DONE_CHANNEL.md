@@ -12,7 +12,7 @@
 Пример: 
 
 ```go
-orDone := func(done, c <-chan interface{}) <-chan interface{} {
+orDone := func(done <-chan struct{}, c <-chan interface{}) <-chan interface{} {
 	valStream := make(chan interface{})
 	go func() {
 		defer close(valStream)
