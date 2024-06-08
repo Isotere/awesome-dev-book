@@ -24,4 +24,7 @@
 - [Приблизительные оценки](0100_Approximate_estimates.md)
 - [Rate Limits](0110_Rate_Limiting.md)
 - [Согласованное хеширование](0120_Consistent_hashing.md)
+- Примеры
+	- [Key-Value Storage](./examples/001_Key_value_storage.md)
+
 
