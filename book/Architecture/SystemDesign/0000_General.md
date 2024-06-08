@@ -2,7 +2,7 @@
 tags:
   - SystemDesign/General
 aliases:
-  - Общие положения
+  - Системный дизайн - Общие положения
 ---
 # Общие положения
 
@@ -33,3 +33,9 @@ aliases:
 12. Инстансы Amazon EC2 High Memory: https://aws.amazon.com/ru/ec2/instance-types/high-memory/
 13. What it takes to run Stack Overflow: http://nickcraver.com/blog/2013/11/22/what-it-takes-to-runstack-overflow
 14. What The Heck Are You Actually Using NoSQL For: http://highscalability.com/blog/2010/12/6/what-the-heck-are-youactually-using-nosql-for.html
+15. J. Dean, Google Pro Tip: Use Back-Of-The-Envelope-Calculations To Choose The Best Design: http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-ofthe-envelope-calculations-to-choo.html
+16. System design primer: https://github.com/donnemartin/systemdesign-primer
+17. Latency Numbers Every Programmer Should Know: https://colin-scott.github.io/personal_website/research/interactive_latency.html
+18. Amazon Compute Service Level Agreement: https://aws.amazon.com/compute/sla/
+19. Compute Engine Service Level Agreement (SLA): https://cloud.google.com/compute/sla
+20. SLA summary for Azure services: https://azure.microsoft.com/en-us/support/legal/sla/summary/

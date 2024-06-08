@@ -21,5 +21,5 @@
 	- [Логирование](0091_Logs.md)
 	- [Метрики](0092_Metrics.md)
 	- [Автоматизация](0093_Automatization.md)
-- Rate Limits
-  - [Token Bucket](rate_limits/TOKEN_BUCKET.md) 
+- [Приблизительные оценки](0100_Approximate_estimates.md)
+- [Rate Limits](0110_Rate_Limiting.md)
