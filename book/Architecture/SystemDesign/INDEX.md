@@ -33,6 +33,8 @@
 	- [Лента новостей](./examples/006_News_feed.md)
 	- [Система мгновенного обмена сообщениями](./examples/007_Chat_system.md)
 	- [Автозаполнение поисковых запросов](./examples/008_Search_queries.md)
+	- [Youtube](./examples/009_Youtube.md)
+
 
 
 
