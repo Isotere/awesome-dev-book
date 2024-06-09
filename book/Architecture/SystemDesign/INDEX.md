@@ -26,12 +26,11 @@
 - [Согласованное хеширование](0120_Consistent_hashing.md)
 - Примеры
 	- [Key-Value Storage](./examples/001_Key_value_storage.md)
-	- [UUID Generator](002_UUID_Generator.md)
+	- [UUID Generator](./examples/002_UUID_Generator.md)
 	- [Система для сокращения URL-адресов](./examples/003_Url_Shotener.md)
 	- [Поисковой робот](./examples/004_Search_Crawler.md)
 	- [Система уведомлений](./examples/005_Notifications.md)
-	- [Лента новостей](006_News_feed.md)
-
-
+	- [Лента новостей](./examples/006_News_feed.md)
+	- [Система мгновенного обмена сообщениями](./examples/007_Chat_system.md)
 
 
