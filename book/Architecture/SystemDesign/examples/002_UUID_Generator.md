@@ -1,8 +1,8 @@
 ---
 tags:
-  - SystemDesign/Examples/GUIDGen
+  - SystemDesign/Examples/UUIDGenerator
 aliases:
-  - Системный Дизайн - Примеры - Генератор GUID
+  - Системный Дизайн - Примеры - Генератор UUID
 ---
 # ГЕНЕРАТОР УНИКАЛЬНЫХ ИДЕНТИФИКАТОРОВ В РАСПРЕДЕЛЕННЫХ СИСТЕМАХ
 

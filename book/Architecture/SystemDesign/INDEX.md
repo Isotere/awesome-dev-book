@@ -26,5 +26,7 @@
 - [Согласованное хеширование](0120_Consistent_hashing.md)
 - Примеры
 	- [Key-Value Storage](./examples/001_Key_value_storage.md)
+	- [UUID Generator](002_UUID_Generator.md)
+
 
 
