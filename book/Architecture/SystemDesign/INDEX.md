@@ -29,5 +29,9 @@
 	- [UUID Generator](002_UUID_Generator.md)
 	- [Система для сокращения URL-адресов](./examples/003_Url_Shotener.md)
 	- [Поисковой робот](./examples/004_Search_Crawler.md)
+	- [Система уведомлений](./examples/005_Notifications.md)
+	- [Лента новостей](006_News_feed.md)
+
+
 
 
