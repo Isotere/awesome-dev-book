@@ -28,4 +28,6 @@
 	- [Key-Value Storage](./examples/001_Key_value_storage.md)
 	- [UUID Generator](002_UUID_Generator.md)
 	- [Система для сокращения URL-адресов](./examples/003_Url_Shotener.md)
+	- [Поисковой робот](./examples/004_Search_Crawler.md)
+
 
