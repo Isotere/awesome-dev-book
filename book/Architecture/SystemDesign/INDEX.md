@@ -13,6 +13,7 @@
 	- [Шардирование](0022_DB_sharding.md)
 - [Масштабирование](0030_Scaling.md)
 - [Балансировка](0040_Balancer.md)
+- [Проксирование](0041_Proxy.md)
 - [Кеширование](0050_Cache.md)
 - [CDN](0060_CDN.md)
 - [Центры обработки данных](0070_Datacenters.md)
@@ -24,6 +25,7 @@
 - [Приблизительные оценки](0100_Approximate_estimates.md)
 - [Rate Limits](0110_Rate_Limiting.md)
 - [Согласованное хеширование](0120_Consistent_hashing.md)
+- [API](0130_API.md)
 - Примеры
 	- [Key-Value Storage](./examples/001_Key_value_storage.md)
 	- [UUID Generator](./examples/002_UUID_Generator.md)
