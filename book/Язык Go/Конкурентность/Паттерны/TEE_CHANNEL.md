@@ -1,3 +1,8 @@
+---
+tags:
+  - GoLang/SoftwareDesign/Patterns/Concurrency/TeeChannel
+---
+
 # Awesome Dev Book / GoLang / Concurrency / Patterns
 
 ***

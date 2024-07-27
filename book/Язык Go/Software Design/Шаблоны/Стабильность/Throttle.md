@@ -1,3 +1,8 @@
+---
+tags:
+  - GoLang/SoftwareDesign/Patterns/Throttle
+---
+
 Ограничивает частоту вызовов функции некоторым предельным числом вызовов в единицу времени.
 
 Устранение резких всплесков активности, способных привести к насыщению системы необоснованным кол-вом дорогостоящих запросов, которые могут привести к замедлению или отказу. 
@@ -19,4 +24,8 @@
 ## Пример кода
 
 [ссылка на репу](https://github.com/Isotere/awesome-dev-book/blob/master/code/go_lang/software_tpls/throttle/main.go)
+
+[ссылка rate-limiter-1](https://github.com/Isotere/awesome-dev-book/blob/master/code/go_lang/use_cases/rate_limiter/main.go)
+
+[ссылка rate-limiter-2](https://github.com/Isotere/awesome-dev-book/tree/master/code/go_lang/use_cases/rate_limiter2)
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - GoLang/SoftwareDesign/Patterns/Concurrency/Pipeline
+---
+
 # Awesome Dev Book / GoLang / Concurrency / Patterns
 
 ***
