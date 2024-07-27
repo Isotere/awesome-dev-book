@@ -1,11 +1,22 @@
 package main
 
-import "fmt"
+func findNumbers(nums []int) int {
+	isEvenDigits := func(i int) bool {
+		x, count := 10, 1
+		for x <= i {
+			x *= 10
+			count++
+		}
 
-func myFunction(i int) int {
-	return i % 2
-}
+		return count%2 == 0
+	}
 
-func main() {
-	fmt.Println(myFunction(100))
+	counter := 0
+	for _, v := range nums {
+		if isEvenDigits(v) {
+			counter++
+		}
+	}
+
+	return counter
 }
