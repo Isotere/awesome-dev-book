@@ -1,11 +1,7 @@
-# Awesome Dev Book / Rust / Memory
-
-***
-[<<<Back](./INDEX.md)
-***
-
-## Lifetime
-
+---
+tags:
+  - Rust/Memory/Lifetime
+---
 Lifetimes позволяют
 - использовать "заимствованные" данные в структурах
 - возвращать ссылки из функций

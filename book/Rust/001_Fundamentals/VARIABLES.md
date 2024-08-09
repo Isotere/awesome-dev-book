@@ -1,9 +1,7 @@
-# Awesome Dev Book / Rust / Fundamentals
-
-***
-[<<<Back](./INDEX.md)
-***
-
+---
+tags:
+  - Rust/Basics/Variables
+---
 ## Переменные
 
 Объявляются с помощью ключевого слова _let_:

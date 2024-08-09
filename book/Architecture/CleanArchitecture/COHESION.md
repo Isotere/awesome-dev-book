@@ -1,9 +1,7 @@
-# Awesome Dev Book / Architecture / Чистая архитектура
-
-***
-[<<<Back](./INDEX.md)
-***
-
+---
+tags:
+  - Architecture/Clean/Cohesion
+---
 ## Связность компонентов
 
 ### Принцип эквивалентности повторного использования и выпусков (REP)

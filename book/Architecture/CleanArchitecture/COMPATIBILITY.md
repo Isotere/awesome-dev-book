@@ -1,8 +1,7 @@
-# Awesome Dev Book / Architecture / Чистая архитектура
-
-***
-[<<<Back](./INDEX.md)
-***
+---
+tags:
+  - Architecture/Clean/Compatibility
+---
 
 ## Сочетаемость компонентов
 

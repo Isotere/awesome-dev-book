@@ -1,9 +1,7 @@
-# Awesome Dev Book / Rust / Fundamentals
-
-***
-[<<<Back](./INDEX.md)
-***
-
+---
+tags:
+  - Rust/Basics/Strings
+---
 ## Строки
 
 Строки и в Rust  строки - храним текстовую информацию.

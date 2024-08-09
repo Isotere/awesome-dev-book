@@ -1,11 +1,7 @@
-# Awesome Dev Book / Rust / Memory
-
-***
-[<<<Back](./INDEX.md)
-***
-
-## Ownership / Владение
-
+---
+tags:
+  - Rust/Memory/Ownership
+---
 RUST регламентирует управление памятью в виде "Владение".
 
 Память может быть либо "moved" (перемещена, отдана другому владельцу), либо "borrowed" (заимствована).

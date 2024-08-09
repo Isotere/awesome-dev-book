@@ -1,0 +1,4 @@
+---
+tags:
+  - GoLang/StdLib/Buffer
+---

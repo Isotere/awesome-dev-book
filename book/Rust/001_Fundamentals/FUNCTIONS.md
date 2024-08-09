@@ -1,11 +1,7 @@
-# Awesome Dev Book / Rust / Fundamentals
-
-***
-[<<<Back](./INDEX.md)
-***
-
-## Функции
-
+---
+tags:
+  - Rust/Basics/Functions
+---
 Синтаксис: 
 
 ```rust
